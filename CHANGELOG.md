@@ -1,6 +1,6 @@
 ## 0.0.3
 
-**Miigration warning**
+**Migration warning**
 
 - Failure class become deprecated;
 - Use Exception instead of Failure;
